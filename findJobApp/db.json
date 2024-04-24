@@ -1,0 +1,37 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "name": "Full-Stack Software Developer",
+      "description": "Develop and maintain software applications, analyze user needs, and design solutions",
+      "salary": 8000,
+      "imageUrl": "https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2020/12/tes_gen_blog_code7-1-800x412.jpg",
+      "companyName": "Tech Innovations Inc"
+    },
+    {
+      "id": "2",
+      "name": "Marketing Manager",
+      "description": "Plan and execute marketing campaigns, analyze market trends, and oversee advertising strategies",
+      "salary": 6000,
+      "imageUrl": "https://uop.scene7.com/is/image/phoenixedu/female-marketing-manager-leading-strategy-meeting-704x421.webp?fmt=webp-alpha&qlt=70&fit=constrain,1&wid=704",
+      "companyName": "Global Marketing Solutions"
+    },
+    {
+      "id": "3",
+      "name": "Sales Representative",
+      "description": "Identify and contact potential customers, present products or services, and close sales deals",
+      "salary": 5000,
+      "imageUrl": "https://hiring-assets.careerbuilder.com/media/attachments/careerbuilder-original-3344.jpg?1500920668",
+      "companyName": "Sales Pro Inc"
+    },
+    {
+      "id": "4",
+      "name": "Human Resources Manager",
+      "description": "Oversee HR functions, such as recruiting, hiring, training, and employee relations",
+      "salary": 7000,
+      "imageUrl": "https://studyonline.rmit.edu.au/sites/default/files/shutterstock_530240599%202222_0.jpg",
+      "companyName": "PeopleFirst HR Solutions"
+    }
+  ],
+  "companies": []
+}

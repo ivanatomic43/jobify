@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json" /* Recommended React Native TSConfig base */,
+  "compilerOptions": {
+    "lib": ["es2019", "dom"],
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    /* Sentry SourceMaps */
+    "sourceMap": true,
+    "inlineSources": true,
+
+    /* Completeness */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  }
+}
